@@ -1,4 +1,4 @@
-from psutil import disk_partitions
+from psutil import 
 import time
 import re
 import subprocess
